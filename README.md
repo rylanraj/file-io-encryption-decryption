@@ -9,4 +9,4 @@ This project has classes that extend the current Java FileIO library and gives a
 
 ## Usage
 
-You can use the existing algorithms in place or a combination of them to create your unique encryptions.
+You can use the existing algorithms in place or a combination of them to create your unique encryptions. The functions in the class are also fully commented
